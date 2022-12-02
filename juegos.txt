@@ -1,0 +1,13 @@
+Los juegos a desarrollar son:
+
+1) Piedra, Papel o Tijera
+
+2) Lanzamiento de Dados
+
+3) Adivina el numero
+
+4) Quiniela
+
+5) Ta - Te - Ti
+
+6) Black Jack
